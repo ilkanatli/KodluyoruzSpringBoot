@@ -1,14 +1,10 @@
 package com.ilkanatli.bean;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
 
-import java.util.logging.Logger;
-
-
 @Controller
-public class PostContructTutorials {
+public class PostConstructTutorials {
 
        /* @Autowired
     Logger LOG;*/
